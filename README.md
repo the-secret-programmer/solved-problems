@@ -5,6 +5,8 @@ Main problems sources:
 
 - pbinfo.ro
 - kilonova.ro
+- infoarena.ro
+- nerdarena.ro
 - codeforces.com
 - usaco.org
 - National Olympiad of Informatics/Computing of Romania (county and country phases)
